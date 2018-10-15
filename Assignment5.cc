@@ -46,8 +46,7 @@ int main()
 		s[i].grade='E';
 		else if(s[i].score<40)
 		s[i].grade='F';
-		//else()
-		//grade='invalid score'*/
+		
 	
 	
 }
