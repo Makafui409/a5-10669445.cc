@@ -32,6 +32,7 @@ int main()
 		cin>>s[i].score;
 		cout<<endl;
 		cout<<"nextstudent"<<endl;
+		cout<<endl;
 		
 		
 		if(s[i].score>=80 && s[i].score<=100)
@@ -46,6 +47,8 @@ int main()
 		s[i].grade='E';
 		else if(s[i].score<40)
 		s[i].grade='F';
+		else;
+		s[i].grade='Invalid';
 		
 	
 	
